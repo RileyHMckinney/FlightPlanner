@@ -1,0 +1,30 @@
+
+Flight 1: Dallas, Houston (Time)
+Route 1: Dallas -> Houston, Time: 51.0, Cost: 101.0
+Route 2: Dallas -> Austin -> Houston, Time: 86.0, Cost: 193.0
+Route 3: Dallas -> Chicago -> Austin -> Houston, Time: 431.0, Cost: 339.0
+
+Flight 2: Chicago, Dallas (Cost)
+Route 1: Chicago -> Dallas, Time: 200.0, Cost: 100.0
+Route 2: Chicago -> Austin -> Dallas, Time: 239.0, Cost: 242.0
+Route 3: Chicago -> Austin -> Houston -> Dallas, Time: 282.0, Cost: 340.0
+
+Flight 3: Los Angeles, New York (Time)
+Route 1: Los Angeles -> Chicago -> New York, Time: 480.0, Cost: 450.0
+Route 2: Los Angeles -> Chicago -> Boston -> New York, Time: 540.0, Cost: 560.0
+Route 3: Los Angeles -> Dallas -> Chicago -> New York, Time: 620.0, Cost: 700.0
+
+Flight 4: Boston, Miami (Cost)
+Route 1: Boston -> New York -> Washington -> Miami, Time: 420.0, Cost: 545.0
+Route 2: Boston -> New York -> Washington -> Atlanta -> Miami, Time: 540.0, Cost: 695.0
+Route 3: Boston -> Chicago -> Dallas -> Houston -> New Orleans -> Atlanta -> Miami, Time: 811.0, Cost: 815.0
+
+Flight 5: Seattle, Washington (Time)
+Route 1: Seattle -> Chicago -> New York -> Washington, Time: 630.0, Cost: 705.0
+Route 2: Seattle -> Chicago -> Boston -> New York -> Washington, Time: 690.0, Cost: 815.0
+Route 3: Seattle -> San Francisco -> Dallas -> Houston -> New Orleans -> Atlanta -> Washington, Time: 781.0, Cost: 1235.0
+
+Flight 6: Atlanta, San Francisco (Cost)
+Route 1: Atlanta -> New Orleans -> Houston -> Los Angeles -> San Francisco, Time: 580.0, Cost: 749.0
+Route 2: Atlanta -> New Orleans -> Houston -> Dallas -> Chicago -> Los Angeles -> San Francisco, Time: 801.0, Cost: 855.0
+Route 3: Atlanta -> New Orleans -> Houston -> Dallas -> San Francisco, Time: 511.0, Cost: 855.0
